@@ -1,0 +1,16 @@
+/* align - caption (center) | caption-left | caption-right */ 
+/* includes reading mode and edit mode */
+.callout[data-callout=caption] {
+    margin: 0 auto;
+}
+.callout[data-callout*=left] {
+    margin: 0 auto 0 0;
+}
+.callout[data-callout*=right] {
+    margin: 0 0 0 auto;
+}
+
+/* hide callout icon and title */
+.callout[data-callout*=caption] .callout-title {
+    display: none; 
+}

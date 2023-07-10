@@ -1,0 +1,14 @@
+{
+  "accentColor": "#e4a277",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "MCL Wide Views",
+    "MCL Multi Column",
+    "MCL Gallery Cards",
+    "inline-image-caption"
+  ]
+}
