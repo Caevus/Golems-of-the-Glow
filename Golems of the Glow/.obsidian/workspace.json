@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/Odyna.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/Odyna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/Odyna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Characters/Odyna.md"
               }
             }
           }
@@ -168,13 +168,14 @@
   },
   "active": "8cd2fb8552a8f803",
   "lastOpenFiles": [
-    "Plugin Snippet Resources.canvas",
-    "Blank.png",
-    "Plugin Resources.md",
-    "Home.md",
-    "Plugin Snippet Resources",
     "Characters/Bloomed Edifice.md",
     "Characters/Odyna.md",
+    "Home.md",
+    "Images",
+    "Plugin Snippet Resources.canvas",
+    "Images/Blank.png",
+    "Plugin Resources.md",
+    "Plugin Snippet Resources",
     "Templates/Character.md",
     "Templates",
     "Golems of the Glow.md",
