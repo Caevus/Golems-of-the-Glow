@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "645f3a41976b536d",
+        "id": "0045456e06c76d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "67c6efe30228c492",
+            "id": "8cd2fb8552a8f803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bloomed Edifice.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bloomed Edifice.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bloomed Edifice.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bloomed Edifice.md"
+                "file": "Home.md"
               }
             }
           }
@@ -166,14 +166,19 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "67c6efe30228c492",
+  "active": "8cd2fb8552a8f803",
   "lastOpenFiles": [
-    "Home.md",
-    "Characters/Bloomed Edifice.md",
-    "Golems of the Glow.md",
+    "Plugin Snippet Resources.canvas",
     "Blank.png",
+    "Plugin Resources.md",
+    "Home.md",
+    "Plugin Snippet Resources",
+    "Characters/Bloomed Edifice.md",
+    "Characters/Odyna.md",
+    "Templates/Character.md",
+    "Templates",
+    "Golems of the Glow.md",
     "Blank 1.png",
-    "Untitled.canvas",
     "//Blank.png",
     "Characters"
   ]

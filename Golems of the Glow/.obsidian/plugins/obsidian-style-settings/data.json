@@ -8,5 +8,7 @@
   "modular-css-layout-wv@@wide-table-global": true,
   "modular-css-layout-wv@@wide-callout-global": true,
   "modular-css-layout-wv@@wide-backlinks-global": true,
-  "modular-css-layout-wv@@normal-max-width": "650px"
+  "modular-css-layout-wv@@normal-max-width": "850px",
+  "modular-css-layout-wv@@is-adj-rll": true,
+  "modular-css-layout-wv@@narrow-max-width": "650px"
 }

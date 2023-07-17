@@ -1,6 +1,3 @@
----
-cssClass: wide-page
----
 # Bloomed Edifice
 *Great Speaker Bloomed Edifice III of Skidkylo*
 
