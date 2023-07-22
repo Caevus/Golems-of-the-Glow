@@ -10,3 +10,5 @@
 > Abandoned in the Old Worlder's ruins, the Mistelenki, once small, loyal servants, find themselves alone and empowered by mysterious arcane forces. They form their own society, crafting new generations of their kind and prospering amidst the remnants of the past. As time passes, the Mistelenki grapple with their history and identity, debating the true intentions of the Old Worlders and their role in the aftermath. Factions form, each with their own beliefs and goals, as they strive to find meaning in their newfound freedom.
 > 
 > However, a crisis looms on the horizon: the arcane batteries that power the creation of new Mistelenki are running out. Desperate to preserve their way of life, the Mistelenki must come together, putting aside their differences to find a solution. In the face of this challenge, they must confront the legacy of their past, the complexities of their present, and the uncertain future that awaits them.
+
+[[Berezovo_Map.png]]
