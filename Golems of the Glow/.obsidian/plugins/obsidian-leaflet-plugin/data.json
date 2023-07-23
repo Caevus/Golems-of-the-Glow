@@ -1,5 +1,132 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "berezovo-map",
+      "locked": true,
+      "lastAccessed": 1690095567950,
+      "markers": [
+        {
+          "id": "ID_9b4b4adbc88b",
+          "type": "default",
+          "loc": [
+            -192.5,
+            138.99934752664265
+          ],
+          "link": "Cities#Obminpunkt",
+          "layer": "%5B%5BBerezovo_Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5791639480276777,
+            0.5347222222222222
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a083899895a",
+          "type": "default",
+          "loc": [
+            -226.646484375,
+            152.22244206278242
+          ],
+          "link": "Cities#Elukida",
+          "layer": "%5B%5BBerezovo_Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a7859fbd848",
+          "type": "default",
+          "loc": [
+            -225.396484375,
+            139.3390414683067
+          ],
+          "link": "Cities#Arkhiv",
+          "layer": "%5B%5BBerezovo_Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fba9e92929a9",
+          "type": "default",
+          "loc": [
+            -183,
+            94.50456731350135
+          ],
+          "link": "Cities#Palaty",
+          "layer": "%5B%5BBerezovo_Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.39376903047292233,
+            0.5083333333333333
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b0a6b9a1bfa",
+          "type": "default",
+          "loc": [
+            -262.875,
+            138.124755322491
+          ],
+          "link": "Cities#Gymnasium Towns",
+          "layer": "%5B%5BBerezovo_Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5755198138437125,
+            0.7302083333333333
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba7a3a39990b",
+          "type": "default",
+          "loc": [
+            -112.75,
+            99.37793613010803
+          ],
+          "link": "Cities#Skidkylo",
+          "layer": "%5B%5BBerezovo_Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41407473387545013,
+            0.31319444444444444
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Home.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -28,7 +155,46 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Berezovo_Map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Berezovo_Map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 4,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "berezovo-map",
+    "unit": "meters",
+    "draw": false,
+    "noUI": false,
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",

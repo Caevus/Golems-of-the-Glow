@@ -11,4 +11,18 @@
 > 
 > However, a crisis looms on the horizon: the arcane batteries that power the creation of new Mistelenki are running out. Desperate to preserve their way of life, the Mistelenki must come together, putting aside their differences to find a solution. In the face of this challenge, they must confront the legacy of their past, the complexities of their present, and the uncertain future that awaits them.
 
-[[Berezovo_Map.png]]
+### Maps
+
+```leaflet
+id: berezovo-map
+image: [[Berezovo_Map.png]]
+height: 500px
+minZoom: 1
+maxZoom: 4
+defaultZoom: 1
+unit: meters
+scale: 1
+darkMode: false
+draw: false
+lock: true
+```
