@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e9ed4e1b2f438a",
+        "id": "88d17cdd1670d88d",
         "type": "tabs",
         "children": [
           {
-            "id": "f0214f62ec06e12c",
+            "id": "fbdeb29a8bdeaeca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/The Journey of Zolys/The Twilight Watchers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fe51be9abde1e03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Cities.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Cities.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Cities.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Cities.md"
+                "file": "Home.md"
               }
             }
           }
@@ -179,12 +166,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "8fe51be9abde1e03",
+  "active": "fbdeb29a8bdeaeca",
   "lastOpenFiles": [
-    "Home.md",
     "Stories/The Journey of Zolys/The Twilight Watchers.md",
-    "Plugin Snippet Resources.canvas",
     "Places/Cities.md",
+    "Home.md",
+    "Plugin Snippet Resources.canvas",
     "Places",
     "Skidkylo.md",
     "Note.md",

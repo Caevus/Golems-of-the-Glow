@@ -1,8 +1,6 @@
 # Cities
 
-## Old Worlder Cities
-
-## Mistelenki Cities
+## Berezovo
 
 ### Arkhiv
 
@@ -15,5 +13,4 @@
 ### Palaty
 
 ### Skidkylo
-
 
