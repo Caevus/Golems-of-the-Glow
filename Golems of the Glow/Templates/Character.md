@@ -1,3 +1,4 @@
+# Character
 *{{full-name}}*
 
 ![[Blank.png|left]] A Mistelenki {{profession}} from {{location}}. He is a {{attributes}} golem. His mask is {{mask-material}} and shaped {{mask-shape}}, {{other-details}}.

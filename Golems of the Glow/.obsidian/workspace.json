@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/Zolys.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/Zolys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/Zolys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Characters/Zolys.md"
               }
             }
           }
@@ -168,26 +168,26 @@
   },
   "active": "db2e368e7e1426b1",
   "lastOpenFiles": [
+    "Characters/Bloomed Edifice.md",
+    "Characters/Zolys.md",
     "Home.md",
-    "Electoral Systems.md",
+    "Templates/Character.md",
     "Stories/The Journey of Zolys/The Twilight Watchers.md",
     "Places/Cities.md",
-    "Plugin Snippet Resources.canvas",
-    "Places",
+    "Characters/Odyna.md",
+    "Electoral Systems.md",
     "Skidkylo.md",
+    "Plugin Snippet Resources.canvas",
     "Note.md",
+    "Places",
     "Stories/The Journey of Zolys",
     "Stories",
     "Images/Berezovo_Map.png",
     "Images/Blank.png",
-    "Characters/Zolys.md",
-    "Characters/Bloomed Edifice.md",
-    "Characters/Odyna.md",
     "Images/Zolys.gif",
     "Images",
     "Plugin Resources.md",
     "Plugin Snippet Resources",
-    "Templates/Character.md",
     "Templates",
     "Golems of the Glow.md",
     "Blank 1.png",
