@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ecfdab282167583",
+        "id": "288c48d365c59b36",
         "type": "tabs",
         "children": [
           {
-            "id": "db2e368e7e1426b1",
+            "id": "6c4c99447ab1f92b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Zolys.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Zolys.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Zolys.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Zolys.md"
+                "file": "Home.md"
               }
             }
           }
@@ -166,7 +166,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "db2e368e7e1426b1",
+  "active": "6c4c99447ab1f92b",
   "lastOpenFiles": [
     "Characters/Bloomed Edifice.md",
     "Characters/Zolys.md",
